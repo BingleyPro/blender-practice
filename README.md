@@ -1,6 +1,6 @@
 
 # Blender Practice Models
-Here are some models I've made while practising Blender!
+Here are some models I've made while practising Blender! If you like to preview any model in Blender, just download the respective **.blend** file and open it in any Blender 4.x version!
 
 ## Mug
 ![enter image description here](https://github.com/BingleyPro/blender-practice/blob/main/mug/mug_render.png?raw=true)
