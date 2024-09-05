@@ -1,6 +1,6 @@
 
 # Blender Practice Models
-Here are some models I've made while practising Blender! If you like to preview any model in Blender, just download the respective **.blend** file and open it in any Blender 4.x version!
+Here are some models I've made while practising Blender! If you like to preview any model in Blender, just download the respective **.blend** file and open it in any Blender 4.x version! You can also click the **Sketchfab** link to quickly preview any model in your browser.
 
 ## Mug
 https://sketchfab.com/3d-models/mug-20126b236d1047b6b1a40e32f459b57b
